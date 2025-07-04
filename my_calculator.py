@@ -1,8 +1,8 @@
 # here we are calculating the area of a circle
 
 # at first we will define the value of the radius
-# Yi am using my favourite nuumber but we can change this number to any value we want
-radius = 5
+# i am using my favourite nuumber but we can change this number to any value we want
+radius = 6
 
 #now we will calculate the area using the formula: π × radius × radius
 # we use 3.14159 as an approximate value for π (pi)
